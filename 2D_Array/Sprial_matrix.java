@@ -46,3 +46,14 @@ public class Sprial_matrix {
     }
     
 }
+
+
+//output
+
+// the 2_D matrix is :
+// 1  2  3  4  
+// 5  6  7  8  
+// 9  10  11  12  
+// 13  14  15  16  
+// the sprial print is : 
+// 1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5, 6, 7, 11, 10, 
