@@ -1,8 +1,7 @@
 public class Bubble_sort {
     public static void main (String [] args){
        
-        // arr = {3,4,2,1,5,6,8}//
-        
+        // arr = {3,4,2,1,5,6,8}
 
         int arr[] = {3,4,2,1,5,6,8};
         System.out.println("the Original array is : ");
